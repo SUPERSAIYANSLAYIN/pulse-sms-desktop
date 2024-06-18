@@ -86,6 +86,6 @@
     "electron-updater": "4.2.4",
     "electron-window-state": "5.0.3",
     "https-proxy-agent": "4.0.0",
-    "ws": "3.3.1"
+    "ws": "8.17.1"
   }
 }
